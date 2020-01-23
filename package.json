@@ -1,0 +1,22 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "Leetcode problem solving Repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch LC1_TwoSum"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soumsps/leetcode.git"
+  },
+  "author": "soumsps",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soumsps/leetcode/issues"
+  },
+  "homepage": "https://github.com/soumsps/leetcode#readme",
+  "dependencies": {
+    "jest": "^25.1.0"
+  }
+}
