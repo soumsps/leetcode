@@ -1,4 +1,4 @@
-# Leetcode problem solution
+# My Leetcode Solutions
 
 Practice problem solving on leetcode
 
@@ -39,3 +39,13 @@ Then run:
 jest --watch 01_January
 jest --watch 02_Feburary
 ```
+
+## 2020
+
+#### 01_January
+
+| Sno. | Name                    | Level | Link                                                              |
+| ---- | ----------------------- | ----- | ----------------------------------------------------------------- |
+| LC1  | Two Sum                 | Easy  | https://leetcode.com/problems/two-sum/                            |
+| LC2  | Median Two Sorted Array | Hard  | https://leetcode.com/problems/median-of-two-sorted-arrays         |
+| LC3  | Decompresed RLE List    | Easy  | https://leetcode.com/problems/decompress-run-length-encoded-list/ |
