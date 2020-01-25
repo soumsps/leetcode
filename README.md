@@ -44,10 +44,11 @@ jest --watch 02_Feburary
 
 #### January
 
-| Sno. | Name                    | Level  | Link                                                              |
-| ---- | ----------------------- | ------ | ----------------------------------------------------------------- |
-| LC1  | Two Sum                 | Easy   | https://leetcode.com/problems/two-sum/                            |
-| LC2  | Median Two Sorted Array | Hard   | https://leetcode.com/problems/median-of-two-sorted-arrays         |
-| LC3  | Decompresed RLE List    | Easy   | https://leetcode.com/problems/decompress-run-length-encoded-list/ |
-| LC4  | 3Sum Closest            | Medium | https://leetcode.com/problems/3sum-closest/                       |
-| LC5  | 4Sum                    | Medium | https://leetcode.com/problems/4sum/                               |
+| Sno.   | Name                    | Level  | Link                                                              |
+| ------ | ----------------------- | ------ | ----------------------------------------------------------------- |
+| LC1    | Two Sum                 | Easy   | https://leetcode.com/problems/two-sum/                            |
+| LC4    | Median Two Sorted Array | Hard   | https://leetcode.com/problems/median-of-two-sorted-arrays         |
+| LC1313 | Decompresed RLE List    | Easy   | https://leetcode.com/problems/decompress-run-length-encoded-list/ |
+| LC16   | 3Sum Closest            | Medium | https://leetcode.com/problems/3sum-closest/                       |
+| LC18   | 4Sum                    | Medium | https://leetcode.com/problems/4sum/                               |
+| LC217  | Contains Duplicate      | Easy   | https://leetcode.com/problems/contains-duplicate/                 |
