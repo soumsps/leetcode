@@ -4,7 +4,7 @@
   "description": "Leetcode problem solving Repository",
   "main": "index.js",
   "scripts": {
-    "test": "jest --watch LC1_TwoSum"
+    "test": "jest --watch 2020/01_January"
   },
   "repository": {
     "type": "git",
