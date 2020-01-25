@@ -50,3 +50,4 @@ jest --watch 02_Feburary
 | LC2  | Median Two Sorted Array | Hard   | https://leetcode.com/problems/median-of-two-sorted-arrays         |
 | LC3  | Decompresed RLE List    | Easy   | https://leetcode.com/problems/decompress-run-length-encoded-list/ |
 | LC4  | 3Sum Closest            | Medium | https://leetcode.com/problems/3sum-closest/                       |
+| LC5  | 4Sum                    | Medium | https://leetcode.com/problems/4sum/                               |
